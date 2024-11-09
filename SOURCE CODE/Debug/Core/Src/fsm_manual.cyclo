@@ -1,0 +1,4 @@
+../Core/Src/fsm_manual.c:13:6:clear_all_light	1
+../Core/Src/fsm_manual.c:23:6:blinkingLight	6
+../Core/Src/fsm_manual.c:53:6:prepare_for_change_mode	2
+../Core/Src/fsm_manual.c:66:6:fsm_change_mode	9

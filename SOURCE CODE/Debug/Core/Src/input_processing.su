@@ -1,0 +1,2 @@
+../Core/Src/input_processing.c:14:6:fsm_for_button_processing	16	static
+../Core/Src/input_processing.c:47:5:is_button_pressed_and_released	16	static

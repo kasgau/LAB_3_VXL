@@ -1,0 +1,4 @@
+../Core/Src/Led7Segment.c:16:6:display7SEG	16	static
+../Core/Src/Led7Segment.c:307:6:update_LED7_buffer_mode	16	static
+../Core/Src/Led7Segment.c:312:6:update_LED7_buffer_counter	16	static
+../Core/Src/Led7Segment.c:318:6:update_7seg_led	8	static

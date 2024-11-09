@@ -1,0 +1,6 @@
+../Core/Src/timer.c:24:6:setTimerpure	1
+../Core/Src/timer.c:32:6:setTimerTrafficHorizontal	1
+../Core/Src/timer.c:38:6:setTimerTrafficVertical	1
+../Core/Src/timer.c:44:6:setTimerBlink	1
+../Core/Src/timer.c:49:6:setTimerLED7	1
+../Core/Src/timer.c:55:6:timer_run	11

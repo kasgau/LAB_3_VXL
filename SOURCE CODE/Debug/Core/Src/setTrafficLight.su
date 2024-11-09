@@ -1,0 +1,6 @@
+../Core/Src/setTrafficLight.c:9:6:setRedH	8	static
+../Core/Src/setTrafficLight.c:16:6:setYellowH	8	static
+../Core/Src/setTrafficLight.c:24:6:setGreenH	8	static
+../Core/Src/setTrafficLight.c:31:6:setRedV	8	static
+../Core/Src/setTrafficLight.c:38:6:setYellowV	8	static
+../Core/Src/setTrafficLight.c:46:6:setGreenV	8	static

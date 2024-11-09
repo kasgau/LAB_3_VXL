@@ -1,0 +1,6 @@
+../Core/Src/setTrafficLight.c:9:6:setRedH	1
+../Core/Src/setTrafficLight.c:16:6:setYellowH	1
+../Core/Src/setTrafficLight.c:24:6:setGreenH	1
+../Core/Src/setTrafficLight.c:31:6:setRedV	1
+../Core/Src/setTrafficLight.c:38:6:setYellowV	1
+../Core/Src/setTrafficLight.c:46:6:setGreenV	1
