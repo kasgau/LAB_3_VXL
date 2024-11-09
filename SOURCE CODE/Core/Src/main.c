@@ -103,7 +103,7 @@ int main(void)
   while (1)
   {
 	  fsm_for_button_processing();
-		  fsm_change_mode();
+	  fsm_change_mode();
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */

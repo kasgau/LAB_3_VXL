@@ -37,11 +37,11 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, READONLY, DEBUGGING, OCTETS
  16 .debug_macro  000177fe  00000000  00000000  0001031b  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 17 .debug_line   0000eb7e  00000000  00000000  00027b19  2**0
+ 17 .debug_line   0000eb7c  00000000  00000000  00027b19  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 18 .debug_str    000828d5  00000000  00000000  00036697  2**0
+ 18 .debug_str    000828d5  00000000  00000000  00036695  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 19 .comment      00000043  00000000  00000000  000b8f6c  2**0
+ 19 .comment      00000043  00000000  00000000  000b8f6a  2**0
                   CONTENTS, READONLY
  20 .debug_frame  00002a08  00000000  00000000  000b8fb0  2**2
                   CONTENTS, READONLY, DEBUGGING, OCTETS
@@ -2509,7 +2509,7 @@ int main(void)
   {
 	  fsm_for_button_processing();
  80011fa:	f7ff ff17 	bl	800102c <fsm_for_button_processing>
-		  fsm_change_mode();
+	  fsm_change_mode();
  80011fe:	f7ff fe73 	bl	8000ee8 <fsm_change_mode>
   {
  8001202:	bf00      	nop

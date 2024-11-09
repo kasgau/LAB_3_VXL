@@ -52,9 +52,4 @@ extern int Yellow_counter_vertical;
 extern int Green_counter_vertical;
 
 
-
-
-
-
-
 #endif /* INC_GLOBAL_H_ */
