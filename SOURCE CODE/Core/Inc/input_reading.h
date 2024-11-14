@@ -5,7 +5,7 @@
 
 #include "global.h"
 
-void button_reading ( void );
+void getKeyInput ( void );
 unsigned char is_button_pressed ( unsigned char index );
 
 #endif /* INC_INPUT_READING_H_ */
